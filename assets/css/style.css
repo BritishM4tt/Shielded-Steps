@@ -4,14 +4,10 @@ body {
 
 /* Containers */
 
-.container-wrapper {}
-
 .container-wrapper--red {
     background-color: #32a852;
     color: white;
 }
-
-.alert-container {}
 
 .callout-container {
     height: 100vh;
